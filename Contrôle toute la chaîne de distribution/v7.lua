@@ -5,7 +5,7 @@
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-	Title = "SORONICE Hub",
+	Title = "SORONICEv7 Hub",
 	Icon = "star",
 	Author = "[🎄] 99 nuits dans la forêt 🔦",
 	Folder = "NEXON99",
