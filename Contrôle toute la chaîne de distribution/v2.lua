@@ -584,8 +584,8 @@ end)
 
 -- ===== Rayfield GUI =====
 local Window = Rayfield:CreateWindow({
-	Name = "SORONICEv3 Hub",
-	LoadingTitle = "SORONICEv3 Hub",
+	Name = "SORONICEv2 Hub",
+	LoadingTitle = "SORONICEv2 Hub",
 	LoadingSubtitle = "Merged - Rayfield UI",
 	ConfigurationSaving = { Enabled = false }
 })
