@@ -24,7 +24,7 @@ local FichierBlockPC = "soronice_hwid_lock.txt"
 -- =========================================================================
 
 -- Lien 1 : Exécuté si le PC est DÉFINITIVEMENT BANNI
-local ScriptBanDefinitif = "URL_DU_SCRIPT_POUR_BAN_DEFINITIF_ICI"
+local ScriptBanDefinitif = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/ScriptBanDefinitif.lua"
 
 -- Lien 2 : Exécuté si le COMPTE ROBLOX est banni
 local ScriptBanCompte = "URL_DU_SCRIPT_POUR_BAN_COMPTE_ICI"
