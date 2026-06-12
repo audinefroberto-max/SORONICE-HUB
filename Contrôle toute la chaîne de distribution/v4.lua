@@ -1,7 +1,7 @@
 local soronice = loadstring(game:HttpGet('https://raw.githubusercontent.com/Audinay/Cr-ation-principale-de-mon-site-internet-et-de-mes-scripts./refs/heads/main/Scriptation%20professionell%20SORONICE.COM'))()
 
 local Window = soronice:CreateWindow({
-    Name = "SORONICEv5 HUB",
+    Name = "SORONICEv4 HUB",
     ShowDevice = true,
     ShowPing = true,
     ShowFPS = true,
