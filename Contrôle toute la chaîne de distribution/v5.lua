@@ -27,7 +27,7 @@ end)
 -- 2. CONFIGURATION DU HUB
 -- ====================================================
 local Window = Soronice:CreateWindow({
-    Name = "SORONICE HUB - CROUCH FIXED",
+    Name = "SORONICEv5 HUB - CROUCH FIXED",
     KeySystem = false,
     VersionTag = "V12 FIX",
     ShowDevice = true,
