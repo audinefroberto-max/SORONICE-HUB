@@ -27,10 +27,10 @@ local FichierBlockPC = "soronice_hwid_lock.txt"
 local ScriptBanDefinitif = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/ScriptBanDefinitif.lua"
 
 -- Lien 2 : Exécuté si le COMPTE ROBLOX est banni
-local ScriptBanCompte = "URL_DU_SCRIPT_POUR_BAN_COMPTE_ICI"
+local ScriptBanCompte = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/ScriptBanCompte.lua"
 
 -- Lien 3 : Exécuté si LE JEU N'A PAS DE SCRIPT
-local ScriptErreurJeuDefaut = "URL_DU_SCRIPT_PAR_DEFAUT_ICI"
+local ScriptErreurJeuDefaut = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/ScriptErreurJeuDefaut.lua"
 
 -- =========================================================================
 -- 3. LIENS DES SCRIPTS POUR LES JEUX
