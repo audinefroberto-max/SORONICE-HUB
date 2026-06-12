@@ -39,10 +39,18 @@ local ScriptErreurJeuDefaut = "https://raw.githubusercontent.com/audinefroberto-
 local ScriptsParJeu = {
   --1[ jeux ]: [🌍 World 2 🌍] Levage de poids dans la grande ville
     [1597043326] = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/Contr%C3%B4le%20toute%20la%20cha%C3%AEne%20de%20distribution/v1.lua",
-  --1[ jeux ]: [FPS] Flick🔫
+  --2[ jeux ]: [FPS] Flick🔫
     [136801880565837] = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/Contr%C3%B4le%20toute%20la%20cha%C3%AEne%20de%20distribution/v2.lua",
-  --1[ jeux ]: 💪Muscle Légendes
+  --3[ jeux ]: 💪Muscle Légendes
     [3623096087] = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/Contr%C3%B4le%20toute%20la%20cha%C3%AEne%20de%20distribution/v3.lua",
+  --4[ jeux ]: Fabriqué au Chili (BETA)
+    [81640207246871] = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/Contr%C3%B4le%20toute%20la%20cha%C3%AEne%20de%20distribution/v4.lua",
+  --5[ jeux ]: Échappez au tsunami pour les Brainrots !
+    [131623223084840] = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/Contr%C3%B4le%20toute%20la%20cha%C3%AEne%20de%20distribution/v5.lua",
+  --7[ jeux ]: 99 nuits dans la forêt 🔦
+    [79546208627805] = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/Contr%C3%B4le%20toute%20la%20cha%C3%AEne%20de%20distribution/v7.lua",
+  --10[ jeux ]: Blox Fruits
+    [2753915549] = "https://raw.githubusercontent.com/audinefroberto-max/SORONICE-HUB/refs/heads/main/Contr%C3%B4le%20toute%20la%20cha%C3%AEne%20de%20distribution/v10.lua",
 }
 
 -- =========================================================================
